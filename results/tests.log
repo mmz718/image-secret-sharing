@@ -1,0 +1,22 @@
+test_all_authorized_combinations (__main__.SharingTests.test_all_authorized_combinations) ... ok
+test_all_unauthorized_combinations (__main__.SharingTests.test_all_unauthorized_combinations) ... ok
+test_corrupt_share_rejected (__main__.SharingTests.test_corrupt_share_rejected) ... ok
+test_domain_last_coordinate (__main__.SharingTests.test_domain_last_coordinate) ... ok
+test_duplicate_and_insufficient_ids (__main__.SharingTests.test_duplicate_and_insufficient_ids) ... ok
+test_equivalent_under_same_randomness (__main__.SharingTests.test_equivalent_under_same_randomness) ... ok
+test_field_boundary_and_disk_roundtrip (__main__.SharingTests.test_field_boundary_and_disk_roundtrip) ... ok
+test_invalid_image (__main__.SharingTests.test_invalid_image) ... ok
+test_invalid_parameters (__main__.SharingTests.test_invalid_parameters) ... ok
+test_mixed_sessions_rejected (__main__.SharingTests.test_mixed_sessions_rejected) ... ok
+test_numpy_buffer_is_traced (__main__.SharingTests.test_numpy_buffer_is_traced) ... ok
+test_precomputation_binding (__main__.SharingTests.test_precomputation_binding) ... ok
+test_previews_support_all_modes (__main__.SharingTests.test_previews_support_all_modes) ... ok
+test_random_sampler_rejects_biased_tail (__main__.SharingTests.test_random_sampler_rejects_biased_tail) ... ok
+test_scalar_example (__main__.SharingTests.test_scalar_example) ... ok
+test_two_secrets_match_same_shares (__main__.SharingTests.test_two_secrets_match_same_shares) ... ok
+test_zero_highest_coefficient_allowed (__main__.SharingTests.test_zero_highest_coefficient_allowed) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.418s
+
+OK

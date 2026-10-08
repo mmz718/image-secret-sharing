@@ -1,0 +1,170 @@
+{
+  "authorized": [
+    {
+      "ids": [
+        1,
+        2,
+        3
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        2,
+        4
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        2,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        3,
+        4
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        3,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        4,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        2,
+        3,
+        4
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        2,
+        3,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        2,
+        4,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        3,
+        4,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    },
+    {
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "equal": true,
+      "mismatched_values": 0
+    }
+  ],
+  "authorized_combinations": 16,
+  "unauthorized_combinations": 16,
+  "all_unauthorized_rejected": true,
+  "target_not_in_unauthorized_span": true,
+  "ambiguity_witness": {
+    "ids": [
+      1,
+      2
+    ],
+    "candidate_secrets": [
+      0,
+      1
+    ],
+    "both_match_observed_shares": true
+  }
+}

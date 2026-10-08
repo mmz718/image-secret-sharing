@@ -1,0 +1,43 @@
+{
+  "restorations": [
+    {
+      "group": "shamir_3_5",
+      "ids": [
+        5,
+        1,
+        3
+      ],
+      "equal": true
+    },
+    {
+      "group": "brickell_3_5",
+      "ids": [
+        5,
+        1,
+        3
+      ],
+      "equal": true
+    },
+    {
+      "group": "shamir_4_6",
+      "ids": [
+        6,
+        1,
+        3,
+        4
+      ],
+      "equal": true
+    },
+    {
+      "group": "brickell_4_6",
+      "ids": [
+        6,
+        1,
+        3,
+        4
+      ],
+      "equal": true
+    }
+  ],
+  "insufficient_rejected": true
+}
